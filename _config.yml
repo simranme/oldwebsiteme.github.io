@@ -1,0 +1,7 @@
+# Site settings
+title: Simran
+description: Thoughts and experiences of an academic, music and martial arts student
+keywords: Music, Martial Arts, Fun
+author: simran.wilkhu
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.simran.me" # the base hostname & protocol for your site
