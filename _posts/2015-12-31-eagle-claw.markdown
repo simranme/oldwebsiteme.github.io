@@ -17,9 +17,8 @@ The following video is a demonstration of the Eagle Claw martial arts style by m
 <iframe width="620" height="515" src="https://www.youtube.com/embed/Djp5fP_LbVk" frameborder="0" allowfullscreen></iframe>
 
 ### Learning the art at the Eagle Claw Kung Fu school in Maidenhead 
-The school is run and managed by SiFu Julian Dale, who has over 30 years experience in Chinese martial arts, having spent long periods of time training in Hong Kong, China and in America
+The school is run and managed by SiFu Julian Dale, who has over 30 years experience in Chinese martial arts, having spent long periods of time training in Hong Kong, China and in America. 
 SiFu Dale has given a life long dedication to practicing the art of Eagle Claw kung fu. In addition to Eagle Claw Kung Fu SiFu Dale has been taught extensively in the Internal martial arts such as Ba Ji Chuan, Chi Gung and Chen Style Tai Chi Chuan by Master Jian Cheng Ji of HangZhou China. SiFu Dale has also received instruction and teaching by renowned internal Martial Arts Master Dr. Kenneth Fish Washington DC USA.
 
-I have been a student of SiFu Dale since 2006 and am keen to keep learning, practicing and perfecting the art of Eagle Claw Kung Fu. The following is a video of SiFu Dale demonstrating an Eagle Claw Kung Fu form.
-
+I have been a student of SiFu Dale since 2006 and am very keen to keep learning, practicing and perfecting the art of Eagle Claw Kung Fu. The following is a video of SiFu Dale demonstrating an Eagle Claw Kung Fu form at the Birmingham NEC Martial Arts Show on 12th May 2012.
 <iframe width="620" height="515" src="https://www.youtube.com/embed/_qqR7-lN480" frameborder="0" allowfullscreen></iframe>
