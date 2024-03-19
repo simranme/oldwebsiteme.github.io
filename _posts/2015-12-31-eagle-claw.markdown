@@ -8,7 +8,7 @@ date:   2015-12-31 12:12:12
 ---
 
 ### Eagle Claw Kung Fu
-Eagle Claw's roots stretch back over 900 years to the legendary Shaolin Monastery nestled in mountains of Northern China. 
+Eagle Claw's roots stretch back over 900 years to the legendary Shaolin Monastery nestled in mountains of Northern China. Simran 
 
 Like many other systems, it too was inspired by the fighting movements of animals (Crane, Tiger, Snake, etc.). The Eagle Claw Kung-Fu system is unsurpassed as a practical self-defense system because it is a complete fighting system which includes close-in fighting, kicks, clawing hand techniques, throws, leg sweeps and pressure point strikes.
 Testimony to its effectiveness is also seen in the fact that many other Chinese martial arts have adopted Eagle Claw techniques.
